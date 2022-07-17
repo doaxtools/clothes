@@ -1,3 +1,4 @@
+<pre>
 //remotestart
 pow_girl='#FFDDDD'
 tec_girl='#E2FEE0'
@@ -382,5 +383,5 @@ clothes=[
         ],stm_girl
     ]
 ];
-
 //remoteend
+</pre>
